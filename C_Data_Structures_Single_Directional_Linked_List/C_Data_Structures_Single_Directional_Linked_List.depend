@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650333602 source:c:\codebloks\c_data_structures_single_directional_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
